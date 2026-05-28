@@ -37,6 +37,15 @@
 
 ---
 
+## 📚 Current Projects
+
+- 🚲 Bicycle Coin Parking System
+- 🚗 Car Parking Management System
+- 🗄️ Database Management Practice
+- 🌐 Portfolio & GitHub Projects
+
+---
+
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithubosann-dev-mm&show_icons=true&theme=tokyonight)
@@ -56,7 +65,13 @@
 
 ## 📫 Contact
 
-- GitHub: [GitHub Link](https://github.com/sann-dev)
+- GitHub: https://github.com/sithubosann-dev-mm
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=sithubosann-dev-mm&color=blueviolet&style=for-the-badge)
 
 ---
 
