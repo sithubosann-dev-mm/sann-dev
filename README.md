@@ -46,14 +46,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithubosann-dev-mm&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sithubosann-dev-mm&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Goals
 
 - Become a professional IT System Engineer
