@@ -39,9 +39,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithubosann&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sithubosann&layout=compact&theme=tokyonight)
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## 📫 Contact
 
-- GitHub: [GithubLink](https://github.com/sann-dev)
+- GitHub: [GitHub Link](https://github.com/sann-dev)
 
 ---
 
